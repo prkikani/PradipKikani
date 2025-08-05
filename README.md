@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on building utility and productivity mobile apps  
 - 🌱 I’m exploring AI + on-device ML features for mobile  
 - 💬 Ask me about iOS (SwiftUI), Android (Kotlin), and Flutter  
-- 👨‍💻 All of my projects are available at: [github.com/prkikani](https://github.com/prkikani)  
+- 👨‍💻 All of my projects are available at: [github.com/prkikani](https://github.com/pradipkikani)  
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/pradip-kikani)  
 
 ---
