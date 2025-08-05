@@ -1,4 +1,3 @@
-# PradipKikani
 <!-- GitHub Profile README for prkikani -->
 
 <h1 align="center">Hi 👋, I'm Pradipkumar Kikani</h1>
@@ -15,7 +14,7 @@
 - 🌱 I’m exploring AI + on-device ML features for mobile  
 - 💬 Ask me about iOS (SwiftUI), Android (Kotlin), and Flutter  
 - 👨‍💻 All of my projects are available at: [github.com/prkikani](https://github.com/prkikani)  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/prkikani)  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/pradip-kikani)  
 
 ---
 
@@ -49,5 +48,5 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/prkikani" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /> LinkedIn</a>  
+<a href="https://linkedin.com/in/pradip-kikani" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /> LinkedIn</a>  
 </p>
